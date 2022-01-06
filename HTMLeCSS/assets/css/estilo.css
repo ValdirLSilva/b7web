@@ -9,7 +9,6 @@ body {
     width: 100%;
     max-width:1040px;
     heigh:30px;
-    background-color:green;
     margin:auto;
 }
 .topoleft {
@@ -23,4 +22,12 @@ body {
     height: 30px;
     float: right;
     background-color: blue;
+}
+.topoleft ul {
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+.topoleft li{
+    float:left;
 }
